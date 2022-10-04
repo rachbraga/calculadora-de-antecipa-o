@@ -13,7 +13,8 @@
 
 ###### Bibliotecas:
 
-- React Router Dom,
-- React Router Form + Yup
+###### - React Router Dom,
+
+###### - React Router Form + Yup
 
 ###### Requisições API feita com Axios
